@@ -1,0 +1,21 @@
+ul{
+    background: green;
+    margin: 12px 12px 12px 12px;
+    padding: 3px 3px 3px 3px;
+    border-style: dashed;
+    border-width: thin;
+}
+
+li{
+    color: black;
+    background: gray;
+    margin: 12px 12px 12px 12px;
+    padding: 12px 0px 12px 12px;
+    list-style: none;
+}
+
+li.withborder{
+    border-style: dashed;
+    border-width: medium;
+    border-color: black;
+}

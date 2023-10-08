@@ -1,0 +1,43 @@
+
+h4{
+    color: navy;
+}
+h2.header{
+    color: black;
+}
+.header{
+    font-size: 50px;
+}
+.paragraf{
+    font-size: 20x;
+    color: brown;
+}
+p{
+    color: lightcoral;
+    font-weight: 400;
+    font-size: 20px;
+}
+p strong{
+    color: red;
+}
+p strong.bold{
+    color: black;
+}
+.uppercase{
+    text-transform: uppercase;
+    text-shadow: 2px 2px 5px red;
+    color: orangered;
+}
+.lowercase{
+    text-transform: lowercase;
+}
+.capitalize{
+    text-transform: capitalize;
+}
+ul li{
+    color: black;
+    font-size: 20px;
+}
+ul h5{
+    font-size: 20px;
+}
